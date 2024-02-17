@@ -1,6 +1,6 @@
-# Simple Python Man
+UGB
 
-I create simple python projects anyone can use
+unblocked games
 
 <!---
 SimplePythonMan/SimplePythonMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
